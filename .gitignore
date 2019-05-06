@@ -15,3 +15,9 @@ Reports
 .DS_Store
 
 Plugins
+
+Libs
+
+gradlew
+gradlew.bat
+.gitignore
